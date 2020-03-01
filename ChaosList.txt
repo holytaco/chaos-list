@@ -2,3 +2,6 @@ Drinks:
 - Bier
 - Wein
 - Cola
+
+Food:
+- Banana
