@@ -5,7 +5,9 @@ Drinks:
 
 Food:
 - Banana
+- Steak (corrected)
 
 Ideas:
 - use solar engergy
 - use hydro power
+
