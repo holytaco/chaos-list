@@ -5,3 +5,7 @@ Drinks:
 
 Food:
 - Banana
+
+Ideas:
+- use solar engergy
+- 
