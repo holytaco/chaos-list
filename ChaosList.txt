@@ -8,4 +8,4 @@ Food:
 
 Ideas:
 - use solar engergy
-- 
+- use hydro power
