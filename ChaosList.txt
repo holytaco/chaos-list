@@ -6,6 +6,7 @@ Drinks:
 Food:
 - Banana
 - Steak (corrected)
+- Apples
 
 Ideas:
 - use solar engergy
